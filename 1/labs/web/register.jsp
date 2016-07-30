@@ -13,7 +13,7 @@
     </head>
     <body>
         <h1>Register</h1>
-        <form action="welcome.jsp" method="get">
+        <form action="welcome.jsp" method="post">
             <table>
                 <tr>
                     <td>
